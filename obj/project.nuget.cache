@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9WTTWObtfk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lizbe\\Source\\Repos\\PatitasOrg\\patitasOrgMILAV\\patitasOrgMILAV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lizbe\\.nuget\\packages\\confluent.kafka\\2.6.1\\confluent.kafka.2.6.1.nupkg.sha512",
+    "C:\\Users\\lizbe\\.nuget\\packages\\librdkafka.redist\\2.6.1\\librdkafka.redist.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

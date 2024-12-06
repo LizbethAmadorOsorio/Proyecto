@@ -1,0 +1,42 @@
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.exe
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.deps.json
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.runtimeconfig.json
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.dll
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.pdb
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.paginaInicial.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.Properties.Resources.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.GenerateResource.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.AssemblyInfoInputs.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.AssemblyInfo.cs
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.CoreCompileInputs.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.dll
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\refint\patitasOrgMILAV.dll
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.pdb
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.genruntimeconfig.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\ref\patitasOrgMILAV.dll
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.login.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.AssemblyReference.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.EncargadoVoluntarios.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.EncargadoControlAnimales.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoVeterinaria.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoVoluntarios.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frm_EncargadoEncargados.resources
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.AssemblyReference.cache
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.paginaInicial.resources
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoCampañas.resources
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.EncargadoControlAnimales.resources
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoVeterinaria.resources
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoVoluntarios.resources
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frm_EncargadoEncargados.resources
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.login.resources
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.Properties.Resources.resources
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.GenerateResource.cache
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.AssemblyInfoInputs.cache
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.AssemblyInfo.cs
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.CoreCompileInputs.cache
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.sourcelink.json
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.dll
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\refint\patitasOrgMILAV.dll
+C:\Users\lizbe\source\repos\PatitasOrg\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.pdb
